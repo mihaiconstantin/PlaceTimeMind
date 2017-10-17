@@ -1,6 +1,6 @@
 # Place, time, and mind
 
-> A place and time for things and mind
+> A place and time for things and mind.
 
 ## Build Setup
 
